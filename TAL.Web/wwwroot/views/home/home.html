@@ -1,0 +1,64 @@
+<div class="container-fluid">
+    <div class="row">
+        <h2>{{message}}</h2>
+
+    </div>
+    <form name="form" ng-submit="confirmSubmit()">
+        <div class="row">
+            <div class="col-md-4">
+                <label> Name : </label>
+            </div>
+            <div class="col-md-8">
+                <input type="text" ng-model="entity.name" name="Name" class="form-control" ng-required="true" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label> Age : </label>
+            </div>
+            <div class="col-md-8">
+                <input type="number" min="1" max="100" ng-model="entity.age" name="Age" class="form-control" ng-required="true" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label> Date of Birth : </label>
+            </div>
+            <div class="col-md-8">
+                <input type="date" ng-model="entity.dob" name="DOB" class="form-control" ng-required="true" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label> Occupation : </label>
+            </div>
+            <div class="col-md-8">
+                <select ng-options="occupation as occupation.name for occupation in occupations track by occupation.id"
+                        ng-model="entity.occupation" ng-required="true" class="form-control">
+                    <option value="">Please select an option ..</option>
+                </select>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label> Death : </label>
+            </div>
+            <div class="col-md-8">
+                <input type="number" min="1" ng-model="entity.sumInsured" name="SumInsured" class="form-control" ng-required="true" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                
+            </div>
+            <div class="col-md-10">
+                <button type="submit" class="btn btn-primary">Calculate</button>
+                <button type="button" ng-click="cancel()" class="btn btn-default">Cancel</button>
+            </div>
+        </div>
+        <div class="row" ng-if="showPremiumAmount === true">
+            <h3>Your Monthly Premium is {{Premium.premiumAmount}}</h3>
+        </div>
+    </form>
+</div>

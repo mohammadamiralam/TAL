@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EGRIZc/w29Xa7x+ck3SQbLxEgCg000mrzeJpXG+d11uB6KjvVKT3pk8DGmTmIam/AHQN81P21OtfzfdOnjD3xg==",
+  "dgSpecHash": "HoIu+PeNceA8Sc4RFUUe+97BeQ0TqDUgqL7NKzETxBYmLXPOzvteebsT3dJFgu4IZsc6D8b+mHWSyLCHGOoq4Q==",
   "success": true,
   "projectFilePath": "B:\\MyGIT\\TAL\\TAL\\TAL.Infrastructure\\TAL.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

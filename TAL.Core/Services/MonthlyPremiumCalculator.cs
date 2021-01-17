@@ -18,7 +18,7 @@ namespace TAL.Core.Services
         }
         public double Calculate(UserDetails userDetails)
         {
-
+            
             double factor = _ratingRepository.GetRating(userDetails.Occupation.RatingId).Factor;
             double premium = (userDetails.SumInsured * factor * userDetails.Age) / 1000 * 12;
 

@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vZOuAR0JVZvhxLsiKziy1qrj2WBzr//UPzbplVh68zVSIH10hYmOjxA9ovaUReCSrYlIGgbUQCrlvD2moXcDsg==",
+  "dgSpecHash": "oW/eCWCa+pKFyZ+Z4MoVEcx4wix9v3zF7yH1L6UnvhxhZ+8HxeIouBehjHah7bQus20v5O0EZ8p9+g5QweSCWA==",
   "success": true,
   "projectFilePath": "B:\\MyGIT\\TAL\\TAL\\TAL.Core\\TAL.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
