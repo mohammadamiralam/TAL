@@ -6,3 +6,4 @@ B:\MyGIT\TAL\TAL\TAL.Core\obj\Debug\netstandard2.0\TAL.Core.AssemblyInfo.cs
 B:\MyGIT\TAL\TAL\TAL.Core\obj\Debug\netstandard2.0\TAL.Core.csproj.CoreCompileInputs.cache
 B:\MyGIT\TAL\TAL\TAL.Core\obj\Debug\netstandard2.0\TAL.Core.dll
 B:\MyGIT\TAL\TAL\TAL.Core\obj\Debug\netstandard2.0\TAL.Core.pdb
+B:\MyGIT\TAL\TAL\TAL.Core\obj\Debug\netstandard2.0\TAL.Core.csprojAssemblyReference.cache
