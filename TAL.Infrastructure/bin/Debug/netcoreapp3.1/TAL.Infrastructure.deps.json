@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TAL.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TAL.Core": "1.0.0"
+        },
+        "runtime": {
+          "TAL.Infrastructure.dll": {}
+        }
+      },
+      "TAL.Core/1.0.0": {
+        "runtime": {
+          "TAL.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TAL.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

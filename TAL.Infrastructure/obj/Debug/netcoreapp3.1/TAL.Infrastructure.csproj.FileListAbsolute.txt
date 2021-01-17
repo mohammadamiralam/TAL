@@ -1,0 +1,12 @@
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\bin\Debug\netcoreapp3.1\TAL.Infrastructure.deps.json
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\bin\Debug\netcoreapp3.1\TAL.Infrastructure.dll
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\bin\Debug\netcoreapp3.1\TAL.Infrastructure.pdb
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\bin\Debug\netcoreapp3.1\TAL.Core.dll
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\bin\Debug\netcoreapp3.1\TAL.Core.pdb
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.csprojAssemblyReference.cache
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.AssemblyInfoInputs.cache
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.AssemblyInfo.cs
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.csproj.CoreCompileInputs.cache
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.csproj.CopyComplete
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.dll
+B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp3.1\TAL.Infrastructure.pdb
