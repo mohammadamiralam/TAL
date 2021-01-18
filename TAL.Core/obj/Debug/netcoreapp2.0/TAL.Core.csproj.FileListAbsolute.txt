@@ -33,4 +33,3 @@ C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Core\obj\Debug\netcoreapp2.0\TAL.
 C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Core\obj\Debug\netcoreapp2.0\TAL.Core.dll
 C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Core\obj\Debug\netcoreapp2.0\TAL.Core.pdb
 C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Core\obj\Debug\netcoreapp2.0\TAL.Core.csprojAssemblyReference.cache
-B:\MyGIT\TAL\TAL\TAL.Core\obj\Debug\netcoreapp2.0\TAL.Core.csprojAssemblyReference.cache
