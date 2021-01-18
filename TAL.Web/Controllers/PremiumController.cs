@@ -22,10 +22,19 @@ namespace TAL.Web.Controllers
         [HttpPost, Route("CalculateMonthlyPremium")]
         public Premium CalculateMonthlyPremium([FromBody]UserDetails userDetails)
         {
+            try
+            {
+                var premiumAmount = _premiumCalculator.Calculate(userDetails);
 
-            var premiumAmount = _premiumCalculator.Calculate(userDetails);
-
-            return new Premium() { Name = userDetails.Name, PremiumAmount = premiumAmount };
+                return new Premium() { Name = userDetails.Name, PremiumAmount = premiumAmount };
+            }
+            catch (Exception)
+            {
+                //Log error message into the log file
+                
+                return null;
+            }
+            
         }
     }
 }

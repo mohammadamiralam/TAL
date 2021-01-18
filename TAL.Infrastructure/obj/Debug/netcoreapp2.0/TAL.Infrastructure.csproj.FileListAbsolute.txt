@@ -34,3 +34,15 @@ B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.c
 B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.csproj.CopyComplete
 B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.dll
 B:\MyGIT\TAL\TAL\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.pdb
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\bin\Debug\netcoreapp2.0\TAL.Infrastructure.deps.json
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\bin\Debug\netcoreapp2.0\TAL.Infrastructure.dll
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\bin\Debug\netcoreapp2.0\TAL.Infrastructure.pdb
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\bin\Debug\netcoreapp2.0\TAL.Core.dll
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\bin\Debug\netcoreapp2.0\TAL.Core.pdb
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.csprojAssemblyReference.cache
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.AssemblyInfo.cs
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.csproj.CopyComplete
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.dll
+C:\Users\sures\Downloads\TAL-main\TAL-main\TAL.Infrastructure\obj\Debug\netcoreapp2.0\TAL.Infrastructure.pdb
